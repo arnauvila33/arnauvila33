@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Arnau 👋
+
+I'm a software engineer who is passionate about creating technology to elevate people!
+Some technologies I enjoy are: Java, Unity, ReactJS.
+I'm currently working on a videogame project, using Unity and C#
 
 <!--
 **arnauvila33/arnauvila33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
