@@ -1,7 +1,7 @@
 ### Hi there, I'm Arnau 👋
 
 I'm a software engineer who is passionate about creating technology to elevate people!
-Some technologies I enjoy are: Java, Unity, ReactJS.
+Some technologies I enjoy are: Java, ReactJS, Python, back-end development
 I'm currently working on a videogame project, using Unity and C#
 
 <!--
